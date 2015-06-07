@@ -1,5 +1,5 @@
 {
-    "name": "piwik/PiwikTracker",
+    "name": "ywisax/PiwikTracker",
     "type": "piwik-libs",
     "description": "PHP Client for Piwik Analytics Tracking API",
     "keywords": ["piwik","tracker","analytics"],
